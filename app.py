@@ -7,7 +7,7 @@ from urllib.parse import urlparse
 import validators
 import requests
 
-nltk.download('punkt')
+nltk.download('punkt_tab')
 
 nltk.data.path.append("C:/Users/aryan/AppData/Roaming/nltk_data")
 
