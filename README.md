@@ -56,10 +56,6 @@ gunicorn app:app
 ### **Step 5: Open the Application**
 Visit `http://127.0.0.1:5000/` in your browser.
 
----
-
-## 🎨 UI Preview
-![NewsGenius Preview](https://newsgenius2.onrender.com/preview.png)
 
 ---
 
